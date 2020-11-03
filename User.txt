@@ -1,0 +1,5 @@
+1000	user0@behl.com	test	Jack	M	m	user
+1001	user1@behl.com	test	Jill	M	m	user
+1002	user2@behl.com	test	Bruce	M	m	editor
+1003	user3@behl.com	test	Jason	M	f	editor
+1004	user4@behl.com	test	Nav		M	m	chiefeditor    	
